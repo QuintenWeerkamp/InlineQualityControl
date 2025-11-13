@@ -1,0 +1,19 @@
+@startuml Proces of Inline Quality Control
+Start
+:Transport bottle;
+:Bottle in fov of camera;
+:Take image of bottle;
+:process image;
+:Analyse bottle;
+if (Bottle has defect?) then (yes)
+  :Push bottle to \nnext conveyer;
+  :Continue transport of\n bottle to packaging;
+  stop
+else (no)
+  :Let the bottle continue\n on current conveyer;
+  :Bottle falls in box\n with rejects;
+  stop
+ 
+
+
+@enduml
