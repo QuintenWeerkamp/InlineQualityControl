@@ -7,11 +7,11 @@ Start
 :Take image of bottle;
 :Process image;
 :Analyse image;
-if (Bottle has defect?) then (yes)
+if (Bottle has defect?) then (no)
   :Push bottle to \nnext conveyer;
   :Continue transport of\nsbottle to packaging;
   stop
-else (no)
+else (yes)
   :Let the bottle continue\non current conveyer;
   :Bottle falls in box\nwith rejects;
   stop
