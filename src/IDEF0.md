@@ -1,7 +1,7 @@
 # Project decomposition
 
 
-This high-level diagram summarizes the entire inline quality control system. It shows how various inputs—like bottle types, vision models, and ISO standards—feed into the central process. The system outputs approved and rejected bottles, with all decisions logged into a database or ERP system.
+This top-level diagram summarizes the entire inline quality control system. It shows how various inputs—like bottle types, vision models, and ISO standards—feed into the central process. The system outputs approved and rejected bottles, with all decisions logged into a database or ERP system.
 
 ![IDEF0 Top Level](./img/A0-IQC.png)
 
