@@ -20,4 +20,3 @@ else (yes)
 
 @enduml
 ```
-Commit Rick
