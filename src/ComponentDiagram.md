@@ -14,3 +14,4 @@ package "Vision systeem"{
 [Sensor conveyer] - [Conveyer]
 @enduml
 ```
+---
