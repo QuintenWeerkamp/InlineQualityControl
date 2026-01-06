@@ -6,4 +6,6 @@
 - [Risk assessment](./riskassessment.md)
 - [Self Evaluation](./selfevaluation.md)
 - [Future Improvements](./futureimprovements.md)
+- [Component Diagram](./ComponentDiagram.md)
+  
 
